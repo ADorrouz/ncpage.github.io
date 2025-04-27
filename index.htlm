@@ -3,10 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vous pouvez signalerhjnjln des problèmes quelconques dans l'école pascal</title>
+    <title>Site de signalement-école Pascal</title>
 </head>
 <body>
-    <h1>Dites nous ce qui est cassé et nous nous en occuperons!</h1>
-    <p>Ceci est un paragraphe de texte.</p>
+    <h1>PascalReclame, le signalement en ligne! </h1>
+    <p>Bienvenue à tous les élèves de l'école Pascal, ceci est le site de signalement dans lequel vous avez la possibilité de nous faire part de tout malfonctionnement dans l'établissement</p>
+    <p>Vous retrouverez ci-dessous toutes les rubriques de signalement</p>
+    
 </body>
 </html>
