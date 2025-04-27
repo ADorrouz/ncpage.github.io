@@ -1,9 +1,27 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>blabla<title>
-    </head>
-    <body>
-        <!-- the content goes here -->
-    </body>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Signalement - École Pascal</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.4.1/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 min-h-screen flex flex-col items-center justify-center p-4">
+  <div class="max-w-xl w-full bg-white rounded-2xl shadow p-8">
+    <h1 class="text-3xl font-bold mb-6 text-center text-indigo-600">Signaler un problème</h1>
+    <form class="space-y-4">
+      <div>
+        <label for="location" class="block text-sm font-medium text-gray-700">Où est le problème ?</label>
+        <input type="text" id="location" name="location" required class="mt-1 p-2 w-full border rounded-lg">
+      </div>
+      <div>
+        <label for="description" class="block text-sm font-medium text-gray-700">Décrivez ce qui est cassé</label>
+        <textarea id="description" name="description" rows="4" required class="mt-1 p-2 w-full border rounded-lg"></textarea>
+      </div>
+      <button type="submit" class="w-full bg-indigo-600 text-white p-3 rounded-lg font-semibold hover:bg-indigo-700">
+        Envoyer
+      </button>
+    </form>
+  </div>
+</body>
 </html>
