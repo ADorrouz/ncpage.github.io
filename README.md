@@ -3,7 +3,7 @@
 
 # Signalement Pascal
 
-Un site simple pour signaler les équipements cassés ou en panne à l'école Pascal.
+ signaler les équipements cassés ou en panne à l'école Pascal.
 
 ## Objectif
 Permettre aux élèves et au personnel de déclarer rapidement un problème pour qu'il soit réparé plus vite.
