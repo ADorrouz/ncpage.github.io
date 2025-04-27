@@ -9,6 +9,14 @@
     <h1>PascalReclame, le signalement en ligne! </h1>
     <p>Bienvenue à tous les élèves de l'école Pascal, ceci est le site de signalement dans lequel vous avez la possibilité de nous faire part de tout malfonctionnement dans l'établissement</p>
     <p>Vous retrouverez ci-dessous toutes les rubriques de signalement</p>
+    <h2>Voici les différentes rubriques de signalement</h2>
+        <nav>
+           <ul>
+              <li><a href="Matériel cassé.html">Matériel cassé</a></li>
+              <li><a href="Harcèlement.html">Harcèlement</a></li>
+              <li><a href="Autre.html">Autre</a></li>
+           </ul>
+        </nav>
     
 </body>
 </html>
